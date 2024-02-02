@@ -1,4 +1,4 @@
-# React Native WhatsApp Clone with Clerk
+# React Native WhatsApp Clone 
 
 It looks like you've shared a piece of code written in TypeScript using React Native, Expo, and other related libraries. Let me break down the key components and features in the provided code:
 
